@@ -2,4 +2,4 @@
 creating a new branch is quick
 creating again
 creating a new branch is quick and simple
-some changes
+git is a free software 
